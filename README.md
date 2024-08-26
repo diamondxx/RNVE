@@ -5,7 +5,7 @@ The dataset of RNVE: A Real Nighttime Vision Enhancement Benchmark and Dual-Stre
 
 --------------------------------------------------------------
 
-<img src="./imgs/Figure2.jpg" width="70%">
+<img src="./imgs/Figure3.jpg" width="70%">
 
 We release a novel RNVE dataset for low-light image enhancement. 
 
