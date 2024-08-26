@@ -1,5 +1,5 @@
 # RNVE
-The dataset of RNVE: A Real Nighttime Vision Enhancement Benchmark and Dual-Stream Fusion Network ([SPL](https://ieeexplore.ieee.org/document/10363369))
+RNVE: A Real Nighttime Vision Enhancement Benchmark and Dual-Stream Fusion Network ([SPL](https://ieeexplore.ieee.org/document/10363369))
 
 <img src="./imgs/Figure1.jpg" width="70%">
 
